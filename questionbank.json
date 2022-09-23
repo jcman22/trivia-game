@@ -1,83 +1,93 @@
 {
   "questionBank": [
     {
-      "question": "What is a Schmeckle?",
-      "a": "Ricks favorite food",
-      "b": "A currency",
-      "c": "The name of fly-guards",
-      "d": "Ricks Cat-person friend",
+      "question": "What is The Capital of Florida ?",
+      "a": "Albany",
+      "b": "Tallahassee",
+      "c": "Atlanta",
+      "d": "Dover",
       "correctAnswer": "b"
     },
     {
-      "question": "Which of the following is NOT one of Rick catch phrases?",
-      "a": "No jumping in the sewer.",
-      "b": "GRASSSSS... tastes bad!",
-      "c": "Hit the deck, Jack!",
-      "d": "Uh ohhhh! Somersoult jump!",
+      "question": "Which country gifted the Statue of Liberty to the US??",
+      "a": "Austria",
+      "b": "Germany",
+      "c": "France",
+      "d": "Italy",
       "correctAnswer": "c"
     },
     {
-      "question": "Which is the dimension of the original Rick?",
-      "a": "C-126",
-      "b": "C-132",
-      "c": "C-129",
-      "d": "C-137",
+      "question": "what is the cost of gas in florida?",
+      "a": "$4",
+      "b": "$3",
+      "c": "$5",
+      "d": "too damn high",
       "correctAnswer": "d"
     },
     {
-      "question": "What is the name of Mortys High School?",
-      "a": "Beerwah State High School",
-      "b": "Harry Herpson High School",
-      "c": "Gene Vegan High School",
-      "d": "FIU",
+      "question": "April zodiac sign is Taurus what month is she born on ?",
+      "a": "January",
+      "b": "March",
+      "c": "February",
+      "d": "April",
+      "correctAnswer": "d"
+    },
+    {
+      "question": "which is the best dog breed?",
+      "a": "yorkie",
+      "b": "German Shepherd",
+      "c": "Poodle",
+      "d": "Rottweiler",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Finish the phrase: you will know  ",
+      "a": "gorge",
+      "b": "alex",
+      "c": "jesus",
+      "d": "david",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "which following Iphone does not exist?",
+      "a": "iphone 14 ",
+      "b": "iphone 5",
+      "c": "iphone 8 ",
+      "d": "iphone 9 ",
+      "correctAnswer": "d"
+    },
+    {
+      "question": "which the flowing music genre get the most hate",
+      "a": "Rap music",
+      "b": "christian music",
+      "c": "rock music",
+      "d": "Country music",
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Finish the phrase:when in doubt choose ",
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "correctAnswer": "c"
+    },
+    
+    {
+      "question": "is ever ok to text:asdfghjkl ?",
+      "a": "no",
+      "b": "your geting block",
+      "c": "sometime",
+      "d": "never",
       "correctAnswer": "b"
     },
+    
     {
-      "question": "What is the name of Jerrys favorite Rick?",
-      "a": "Doofus",
-      "b": "Roofus",
-      "c": "Goofus",
-      "d": "Rick G-506",
-      "correctAnswer": "a"
-    },
-    {
-      "question": "What is the name of Ricks ex-wife?",
-      "a": "Diane",
-      "b": "Janet",
-      "c": "Joyce",
-      "d": "Ellen",
-      "correctAnswer": "a"
-    },
-    {
-      "question": "What job does Beth have?",
-      "a": "Chef",
-      "b": "Novel Writer",
-      "c": "Astronomer",
-      "d": "Horse Surgeon",
-      "correctAnswer": "d"
-    },
-    {
-      "question": "What does wubba lubba dub dub mean?",
-      "a": "I'm a genius",
-      "b": "Let's party",
-      "c": "Please leave",
-      "d": "I'm in great pain",
-      "correctAnswer": "d"
-    },
-    {
-      "question": "Who killed Birdperson in a horrific turnabout during his wedding?",
-      "a": "Jerry",
-      "b": "Summer",
-      "c": "Tammy",
-      "d": "Beth",
-      "correctAnswer": "c"
-    },
-    {
-      "question": "What species is Morty's son?",
-      "a": "Smarkian",
-      "b": "Gazorpazorp",
-      "c": "Cromulan",
-      "d": "Human",
+      "question": "was this radom quiz fun?",
+      "a": "no",
+      "b": "yes",
+      "c": "naw",
+      "d": " nooo",
       "correctAnswer": "b"
     }
   ]
